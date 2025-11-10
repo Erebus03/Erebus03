@@ -3,7 +3,7 @@
 💻 Software Engineering Student at **1337 (42 Network)**  
 🚀 Focus: **C, systems programming, and low-level development**  
 📍 Based in **Morocco**  
-📫 Reach me: [rajianwar421@gmail.com](mailto:rajianwar421@gmail.com) · [LinkedIn](https://linkedin.com/in/anouarraji)
+📫 Reach me: [rajianwar421@gmail.com](mailto:rajianwar421@gmail.com) · [LinkedIn](linkedin.com/in/anouar-r-281a3320a)
 
 ---
 
