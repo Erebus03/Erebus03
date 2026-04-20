@@ -1,37 +1,29 @@
-# 👋 Hi, I'm Anouar!
+# Anouar R.
 
-💻 Software Engineering Student at **1337 (42 Network)**  
-🚀 Focus: **C, systems programming, and low-level development**  
-📍 Based in **Morocco**  
-📫 Reach me: [rajianwar421@gmail.com](mailto:rajianwar421@gmail.com) · [LinkedIn](https://www.linkedin.com/in/anouar-r-281a3320a)
+Software engineering student (1337 / 42 Network) based in Morocco, with an interest in cybersecurity, software systems, and low-level programming.
+
+---
+## Experience
+
+- C / C++ programming in Linux environments, focusing on system-level concepts  
+- Understanding of program execution, processes, and synchronization  
+- Familiarity with memory management and low-level issues  
+- Exposure to networking concepts within system programming  
+- Bash scripting and basic Python for automation  
+- Git and CLI-based development workflows  
+---
+
+## Tools & Technologies
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-# 💻 Tech Stack
+## Contact
 
-### Languages & Level
-- **C**  
-- **Python — beginner**  
-- **Shell / Bash**
-
-### Tools & Topics I Use / Learn
-- Git, Linux  
-- Learning: **Flask**, **Docker**
-
----
-
-# 🧱 Key 1337 Projects
-
-| Project | Short description |
-|--------:|-------------------|
-| **push_swap** | Stack-based sorting with minimal operations — algorithm design and optimization.|
-| **minishell** | Simple shell implementing parsing, pipes & redirections. |
-| **cub3D** | Raycasting engine (Wolfenstein-style) — rendering, maps, and input handling. |
-| **philosophers** | Concurrency and synchronization (Dining Philosophers). |
-> 📝 I left out smaller introductory projects. They’re essential foundations but not individually listed here.
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erebus03&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+LinkedIn: https://www.linkedin.com/in/anouar-r
